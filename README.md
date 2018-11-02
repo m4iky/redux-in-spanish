@@ -11,14 +11,13 @@ Puedes usar Redux combinado con [React](https://facebook.github.io/react/), o cu
 > [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) (30 vídeos gratuitos)
 
 ## Testimonios
-> [“Love what you’re doing with Redux”](https://twitter.com/jingc/status/616608251463909376)
+> [[“Amo lo que están haciendo con Redux”](https://twitter.com/jingc/status/616608251463909376)
 > Jing Chen, creador de Flux
 
-> [“I asked for comments on Redux in FB's internal JS discussion group, and it was universally praised. Really awesome work.”
-Bill Fisher, author of Flux document](https://twitter.com/fisherwebdev/status/616286955693682688)
+> [“Pedí comentarios  sobre Redux en el grupo interno sobre JS de FB y fue elogiado enormemente. Un trabajo realmente increible.”](https://twitter.com/fisherwebdev/status/616286955693682688)
 > Bill Fisher, autor de la documentación de Flux
 
-> [“It's cool that you are inventing a better Flux by not doing Flux at all.”](https://twitter.com/andrestaltz/status/616271392930201604)
+> [“Es genial que estén haciendo Flux sin siquiera estar haciéndolo.”](https://twitter.com/andrestaltz/status/616271392930201604)
 > André Staltz, creador de Cycle
 
 ## Experiencia de desarrollo
